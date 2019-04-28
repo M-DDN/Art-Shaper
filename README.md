@@ -1,4 +1,4 @@
-# M-DDN-3LN-ArtLibre
+# M-DDN-Art-Shaper
 
-→ Conteneur M-DDN-3LN-ArtLibre dédié au design du site WebGate87
+→ Conteneur M-DDN-Art-Shaper dédié au design du site WebGate87
   → Inclusions - Infographies - Web Design
