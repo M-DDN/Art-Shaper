@@ -2,5 +2,4 @@
 
 Branché sur M-DDN-Art-Shaper → Conteneur dédié au design du site WebGate87
 
-→ Modeles - Infographies - Web Design
-
+→ Modeles - Infographies - Images - Web Design
