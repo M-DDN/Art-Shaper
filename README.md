@@ -1,4 +1,6 @@
-# M-DDN-Art-Shaper
+# Art Shaper
 
-→ Conteneur M-DDN-Art-Shaper dédié au design du site WebGate87
-  → Inclusions - Infographies - Web Design
+Branché sur M-DDN-Art-Shaper → Conteneur dédié au design du site WebGate87
+
+→ Modeles - Infographies - Web Design
+
